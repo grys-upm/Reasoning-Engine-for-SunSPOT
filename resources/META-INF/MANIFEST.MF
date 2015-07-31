@@ -1,0 +1,7 @@
+MIDlet-Name: PowerScalingSunSPOT
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: UNIVERSIDAD POLITECNICA DE MADRID (UPM)
+MIDlet-Description: Power Scaling Controller for CMS Pilot in DEMANES Project
+MIDlet-1: PowerScalingSunSPOT, , eu.artemis.demanes.impl.SunSPOT.SunSPOTPowerController
+MicroEdition-Profile: IMP-1.0
+MicroEdition-Configuration: CLDC-1.1

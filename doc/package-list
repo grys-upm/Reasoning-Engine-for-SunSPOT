@@ -1,0 +1,14 @@
+eu.artemis.demanes.impl.SunSPOT
+eu.artemis.demanes.impl.SunSPOT.common
+eu.artemis.demanes.impl.SunSPOT.communications
+eu.artemis.demanes.impl.SunSPOT.datatypes
+eu.artemis.demanes.impl.SunSPOT.fuzzyReasoner
+eu.artemis.demanes.impl.SunSPOT.reconfiguration
+eu.artemis.demanes.impl.SunSPOT.reconfiguration.PowerScalingMonitor
+eu.artemis.demanes.impl.SunSPOT.reconfiguration.actions
+eu.artemis.demanes.impl.SunSPOT.reconfiguration.observations
+eu.artemis.demanes.impl.SunSPOT.utils.LEDMarquee
+eu.artemis.demanes.impl.SunSPOT.utils.logging
+eu.artemis.demanes.impl.SunSPOT.utils.neighbordiscovery
+eu.artemis.demanes.impl.SunSPOT.utils.neighbordiscovery.ondemand
+eu.artemis.demanes.impl.SunSPOT.utils.neighbordiscovery.pdu
